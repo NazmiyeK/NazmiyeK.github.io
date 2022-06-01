@@ -1,0 +1,15 @@
+★
+ <div class="column saat" style="position:up; height: 370px;">
+        <div class="content">
+        <img src="resimler/27fc7af6-058f-4785-b4ac-c00527577d82.jpg" alt="saat" style="width:100%; height: 500px; border-radius: 10px; background-color: white;">
+          <h4>Lige Tüm Çelik Kuvars Saat Suya Dayanıklı Büyük Kadranlı Erkek Saati </h4>
+          <p>₺ 409,12</p>
+          <br/>
+        <input type="hidden" id="gizliDeger" value="Seçtiğiniz Ürün Sepete Eklendi"/>
+
+<button type="button" style="width: 200px; height:50px;" onclick="gizliDegerGoster()"><img src="resimler/eticaret-sepet-710x480.png" style="width: 35px; height: 35px;">SEPETE EKLE</button>
+        
+       <br/>
+        <a href="incele10.html"> <button style="width: 200px; height:50px;">İNCELE</button></a>
+        </div>
+      </div>
